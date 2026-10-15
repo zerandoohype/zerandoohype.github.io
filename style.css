@@ -8,3 +8,4 @@ a{color:var(--ciano)}
 nav{display:flex;gap:18px;flex-wrap:wrap;margin-bottom:36px;font-size:.95rem}
 .muted{color:var(--muted);font-size:.9rem}
 footer{margin-top:48px;border-top:1px solid #222;padding-top:16px;color:var(--muted);font-size:.85rem}
+.yt{display:inline-flex;align-items:center;gap:10px;text-decoration:none;font-weight:600}
